@@ -2712,10 +2712,18 @@ input[type="radio"]:focus + label:before {
   width: 100%;
 }
 
+.portraitImage img {
+  float: left;
+  width: 50%;
+  padding: 5px;
+  margin: 4rem 0;
+}
 .image.main {
   display: block;
   margin: 4rem 0;
-  width: 100%;
+  width: 50%;
+  float: left;
+  height: 550px;
 }
 
 .image.main:first-child {
