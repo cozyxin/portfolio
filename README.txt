@@ -1,4 +1,4 @@
-This is my Portfolio Website with web applications and mobile applications I've developedgit remote add origin https://github.com/cozyxin/portfolio.git.
+This is my Portfolio Website with web applications and mobile applications I've developed.
 
 I'm passionate about technology and a life-long learner. I love challenges, keen to solve problems and never satisfied with the minimum requirements.
 
