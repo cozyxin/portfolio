@@ -2718,6 +2718,7 @@ input[type="radio"]:focus + label:before {
   padding: 5px;
   margin: 4rem 0;
 }
+
 .image.main {
   display: block;
   margin: 4rem 0;
@@ -2740,6 +2741,13 @@ input[type="radio"]:focus + label:before {
   }
 
   .image.main {
+    margin: 2rem 0;
+  }
+
+  .portraitImage img {
+    float: left;
+    width: 100%;
+    padding: 5px;
     margin: 2rem 0;
   }
 }
