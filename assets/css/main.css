@@ -270,7 +270,7 @@ i {
 }
 
 p {
-  text-align: justify;
+  text-align: left;
   margin: 0 0 2rem 0;
 }
 
@@ -2712,6 +2712,9 @@ input[type="radio"]:focus + label:before {
   width: 100%;
 }
 
+/* .portraitImages {
+  display: flex;
+} */
 .portraitImage img {
   float: left;
   width: 50%;
